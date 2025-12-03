@@ -51,7 +51,6 @@ public class RecomendadorActividades {
         return "Sin recomendación";
     }
 
-
     public static void main(String[] args) {
 
         RecomendadorActividades r = new RecomendadorActividades();
