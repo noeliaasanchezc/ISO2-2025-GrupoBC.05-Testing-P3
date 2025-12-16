@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.grupoBC05.testing","c":"RecomendadorActividadesTest","l":"RecomendadorActividadesTest()","u":"%3Cinit%3E()"}];updateSearchResults();

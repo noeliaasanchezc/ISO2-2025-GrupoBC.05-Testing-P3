@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.grupoBC05.testing","l":"RecomendadorActividades"},{"p":"<Unnamed>","l":"RecomendadorActividades"}];updateSearchResults();
