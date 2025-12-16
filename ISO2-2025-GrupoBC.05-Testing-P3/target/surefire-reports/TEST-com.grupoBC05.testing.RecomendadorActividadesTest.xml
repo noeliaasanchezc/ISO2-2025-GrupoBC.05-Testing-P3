@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.09" tests="13" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.11" tests="13" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ES"/>
     <property name="sun.boot.library.path" value="C:\Users\HP\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.10.v20240120-1143\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\HP\AppData\Local\Temp\surefire8422157150241761549\surefirebooter-20251210181610572_3.jar C:\Users\HP\AppData\Local\Temp\surefire8422157150241761549 2025-12-10T18-16-10_395-jvmRun1 surefire-20251210181610572_1tmp surefire_0-20251210181610572_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\HP\AppData\Local\Temp\surefire431768284865004093\surefirebooter-20251216111204672_3.jar C:\Users\HP\AppData\Local\Temp\surefire431768284865004093 2025-12-16T11-12-04_542-jvmRun1 surefire-20251216111204672_1tmp surefire_0-20251216111204672_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\HP\git\ISO2-2025-GrupoBC.05-Testing-P3\ISO2-2025-GrupoBC.05-Testing-P3\target\test-classes;C:\Users\HP\git\ISO2-2025-GrupoBC.05-Testing-P3\ISO2-2025-GrupoBC.05-Testing-P3\target\classes;C:\Users\HP\.m2\repository\org\junit\jupiter\junit-jupiter\5.10.0\junit-jupiter-5.10.0.jar;C:\Users\HP\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\HP\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\HP\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\HP\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\HP\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.10.0\junit-jupiter-params-5.10.0.jar;C:\Users\HP\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\HP\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\HP\AppData\Local\Temp\surefire8422157150241761549\surefirebooter-20251210181610572_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\HP\AppData\Local\Temp\surefire431768284865004093\surefirebooter-20251216111204672_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.10+7"/>
@@ -58,17 +58,17 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="61.0"/>
   </properties>
-  <testcase name="testSintomasRecientes" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.032"/>
+  <testcase name="testSintomasRecientes" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.038"/>
   <testcase name="testSenderismoDisponible" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
   <testcase name="testSinFacultades" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
-  <testcase name="testCulturalesGastronomicas" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.0"/>
+  <testcase name="testCulturalesGastronomicas" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
   <testcase name="testPlayaPiscinaDisponible" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
   <testcase name="testSenderismoNoAforo" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
-  <testcase name="testFrioSecoEsquiarDisponible" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.0"/>
+  <testcase name="testFrioSecoEsquiarDisponible" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
   <testcase name="testActividadesPrimaveraNoAforo" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
-  <testcase name="testFrioSecoEsquiarNoAforo" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.0"/>
+  <testcase name="testFrioSecoEsquiarNoAforo" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
   <testcase name="testActividadesPrimaveraDisponible" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
   <testcase name="testFrioNieveAgua" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
   <testcase name="testSinRecomendacion" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
-  <testcase name="testPlayaPiscinaNoDisponibleAforo" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.001"/>
+  <testcase name="testPlayaPiscinaNoDisponibleAforo" classname="com.grupoBC05.testing.RecomendadorActividadesTest" time="0.0"/>
 </testsuite>
